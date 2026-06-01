@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to my page (•˕ •マ
+  welcome to my page! (•˕ •マ
 </h1>
 
 <p align="center">
