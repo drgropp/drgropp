@@ -4,5 +4,5 @@
 
 <p align="center">
   <a href="https://drgropp.github.io/portal/">Portal</a> |
-  <a href="https://discord.gg/nugget05527">Discord</a> |
+  <a href="https://discord/nugget05527">Discord</a> |
 </p>
