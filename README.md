@@ -3,6 +3,7 @@
 </h1>
 <h1 align="center">
   small indie dev and programmer
+  </h1>
 <p align="center">
   <a href="https://drgropp.github.io/portal/">Portal</a> |
   <a href="https://discord.com/users/nugget05527">Discord</a> 
