@@ -1,6 +1,6 @@
 <h1 align="center">
   welcome to my page! (•˕ •マ
-</h1>
+  
 <h1 align="center">
   small indie dev and programmer
   </h1>
