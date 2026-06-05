@@ -1,5 +1,13 @@
-<h1 align="center">
-  welcome to my page! (•˕ •マ
+<div align="center">
+
+# welcome to my page!(•˕ •マ
+
+---
+
+
+
+<hr>
+
  
 <p align="center">
   <a href="https://drgropp.github.io/portal/">Portal</a> |
