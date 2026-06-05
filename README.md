@@ -4,10 +4,6 @@
 
 ---
 
-
-
-<hr>
-
  
 <p align="center">
   <a href="https://drgropp.github.io/portal/">Portal</a> |
