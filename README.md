@@ -1,6 +1,6 @@
 <div align="center">
 
-# welcome to my page!(•˕ •マ
+# welcome to my page(•˕ •マ
 
 <a href="https://drgropp.github.io/portal/">portal</a> · <a href="https://discord.com/users/nugget05527">discord</a>
 
